@@ -1,5 +1,5 @@
 applicationconfigutation:
   host: http://localhost
   port: 3305 
-  username: order-qa
-  password: order-qa
+  username: qa-bhargav-order
+  password: qa-bhargav-order
